@@ -5,6 +5,7 @@
 - Analyze activity's layout display time
 - Analyze recyclerview's rendering and measure performance
 - List all those functions/methods which access main thread along with its consumed time
+- Detect code bottlenecks
 ### Log Examples:
 ***Activity Code***
 
