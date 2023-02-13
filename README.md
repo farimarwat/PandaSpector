@@ -69,4 +69,5 @@ pandaspector{
 }
 ```
 
-***Note: Plugin has been uploaded to gradle plugin portal and is waiting for approvel. So the whole process will not work at the moment***
+***Note: This is a beta version and you may face issues. So create an issue if you face any problems.***
+
