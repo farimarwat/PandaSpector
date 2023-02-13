@@ -5,6 +5,19 @@
 - Analyze activity's layout display time
 - Analyze recyclerview's rendering and measure performance
 - List all those functions/methods which access main thread along with its consumed time
+### Log Examples:
+***Activity Details***
+
+<a href="log_details01.png">
+<img src="log_details01.png" width="50%" height="50%"/>
+</a>
+
+***Function BottleNeck***
+
+
+<a href="log_specific.png">
+<img src="log_specific.png" width="50%" height="50%"/>
+</a>
 
 ### Requirements(Recommanded)
 - JDK 17
