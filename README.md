@@ -1,7 +1,7 @@
 # PandaSpector
 #### An Android Gradle Plugin to measure and analyze app's performance and quality. 
 ## Features
-- Analyze activity's startup sime
+- Analyze activity's startup time
 - Analyze activity's layout display time
 - Analyze recyclerview's rendering and measure performance
 - List all those functions/methods which access main thread along with its consumed time
