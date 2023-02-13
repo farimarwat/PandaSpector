@@ -26,6 +26,13 @@
 <img src="log_specific.png" width="50%" height="50%"/>
 </a>
 
+***Recyclerview Logs***
+
+
+<a href="log_rec.png">
+<img src="log_rec.png" width="50%" height="50%"/>
+</a>
+
 ### Requirements(Recommanded)
 - JDK 17
 - Minimum AGP (Android Gradle Plugin) 7.4
