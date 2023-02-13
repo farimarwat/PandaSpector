@@ -28,7 +28,7 @@
 
 ### Requirements(Recommanded)
 - JDK 17
-- AGP (Android Gradle Plugin) 7.4
+- Minimum AGP (Android Gradle Plugin) 7.4
 
 **Note: Without these requirements you will get errors**
 
