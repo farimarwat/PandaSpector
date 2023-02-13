@@ -6,6 +6,12 @@
 - Analyze recyclerview's rendering and measure performance
 - List all those functions/methods which access main thread along with its consumed time
 ### Log Examples:
+***Activity Code***
+
+<a href="code.png">
+<img src="code.png" width="50%" height="50%"/>
+</a>
+
 ***Activity Details***
 
 <a href="log_details01.png">
