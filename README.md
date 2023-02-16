@@ -71,3 +71,7 @@ pandaspector{
 
 ***Note: This is a beta version and you may face issues. So create an issue if you face any problems.***
 
+####Support Me
+If you want to donate then you are welcome to buy me a cup of tea via PATREON because this encourages me to give you more free stuff and continue to maintain this library
+<a href="https://www.patreon.com/farimarwat">Buy Now!</a>
+
