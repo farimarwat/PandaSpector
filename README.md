@@ -6,6 +6,7 @@
 - Analyze recyclerview's rendering and measure performance
 - List all those functions/methods which access main thread along with its consumed time
 - Detect code bottlenecks
+- 
 <a href="https://youtu.be/t7YFmO349PM">Video Tutorial</a>
 ### Log Examples:
 ***Activity Code***
