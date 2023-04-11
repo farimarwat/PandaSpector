@@ -6,6 +6,8 @@
 - Analyze recyclerview's rendering and measure performance
 - List all those functions/methods which access main thread along with its consumed time
 - Detect code bottlenecks
+
+**Note: Traditional XML support is deprecated. Now all future features will be available for jetpack compose**
 - 
 <a href="https://youtu.be/t7YFmO349PM">Video Tutorial</a>
 ### Log Examples:
@@ -41,11 +43,22 @@
 
 **Note: Without these requirements you will get errors**
 
-### Step 1: Apply Plugin(:app level build.gradle.kts)
+### Step 1.a: Apply Plugin(:app level build.gradle.kts)
 ```
 plugins {
 		...
-	id("io.github.farimarwat.pandaspector") version "1.3"
+	id("io.github.farimarwat.pandaspector") version "1.5"
+}
+```
+
+### Step 1.b Modify settings.gradle.kts
+```
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal() //add this if not exists
+    }
 }
 ```
 
